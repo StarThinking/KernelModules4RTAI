@@ -1,0 +1,1 @@
+cmd_/usr/src/rtai-4.1/testsuite/kern/oneshot-test/periodic_task.ko := ld -r -m elf_x86_64 -T /usr/src/linux-3.10.32/scripts/module-common.lds --build-id  -o /usr/src/rtai-4.1/testsuite/kern/oneshot-test/periodic_task.ko /usr/src/rtai-4.1/testsuite/kern/oneshot-test/periodic_task.o /usr/src/rtai-4.1/testsuite/kern/oneshot-test/periodic_task.mod.o

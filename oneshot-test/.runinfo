@@ -1,0 +1,1 @@
+periodic:sched+fifos:push periodic_task;sleep 5;popall:control_c

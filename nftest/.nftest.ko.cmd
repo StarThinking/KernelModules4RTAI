@@ -1,0 +1,1 @@
+cmd_/home/masix/nftest/nftest.ko := ld -r -m elf_x86_64 -T /usr/src/linux-3.14.33-regular/scripts/module-common.lds --build-id  -o /home/masix/nftest/nftest.ko /home/masix/nftest/nftest.o /home/masix/nftest/nftest.mod.o

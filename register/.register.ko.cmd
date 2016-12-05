@@ -1,0 +1,1 @@
+cmd_/usr/src/rtai-4.1/testsuite/kern/register/register.ko := ld -r -m elf_x86_64 -T /usr/src/linux-3.14.33-rtai/scripts/module-common.lds --build-id  -o /usr/src/rtai-4.1/testsuite/kern/register/register.ko /usr/src/rtai-4.1/testsuite/kern/register/register.o /usr/src/rtai-4.1/testsuite/kern/register/register.mod.o

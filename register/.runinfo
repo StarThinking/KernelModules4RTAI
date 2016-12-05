@@ -1,0 +1,1 @@
+register:sched+fifos:push register;sleep 30;popall:control_c
